@@ -4,3 +4,4 @@ Maui wildfires deadliest in century as death toll hits 93 as 08-13-2023 reuters 
 
 A suspision of in-effective response were discussed and the administration and management showed lack of preparation
 
+An Open dataset (LiDAR) been found at https://files.hawaii.gov/dbedt/op/gis/data/MauiCo_lidar_2019_las.pdf, metadata: https://files.hawaii.gov/dbedt/op/gis/data/Maui_2019_las.html
