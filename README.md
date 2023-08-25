@@ -8,5 +8,4 @@ A suspision of in-effective response were discussed and the administration and m
 
 An Open dataset (LiDAR) been found at https://files.hawaii.gov/dbedt/op/gis/data/MauiCo_lidar_2019_las.pdf, metadata: https://files.hawaii.gov/dbedt/op/gis/data/Maui_2019_las.html (sent email for asking how to retrive the las data but without response)
 
-
-GIS Data Portal: https://geoportal.hawaii.gov/datasets/hawaii-dtm-elevation/explore?location=21.122997%2C-156.913381%2C11.71
+The lidar elevation data is available for download in our Elevation service, found here:  https://prod-histategis.opendata.arcgis.com/pages/elevation-service, user need to zoom in and click the corresponding tile for download.
