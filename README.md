@@ -11,3 +11,9 @@ An Open dataset (LiDAR) been found at https://files.hawaii.gov/dbedt/op/gis/data
 The lidar elevation data is available for download in our Elevation service, found here:  https://prod-histategis.opendata.arcgis.com/pages/elevation-service, user need to zoom in and click the corresponding tile for download.
 
 Observed Weather data from MesoWest: https://mesowest.utah.edu/cgi-bin/droman/mesomap.cgi?state=HI&rawsflag=3
+ STATION: PHOG
+ STATION NAME: Kahului, Kahului Airport
+ LATITUDE: 20.89250
+ LONGITUDE: -156.43694
+ ELEVATION [ft]: 52.0
+ STATE: HI
